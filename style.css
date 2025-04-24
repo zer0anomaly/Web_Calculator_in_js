@@ -1,0 +1,350 @@
+body {
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #543310;
+	height: 100vh;
+}	
+	
+
+.firstdiv {
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	width: 1000px;
+	height: 785px;
+	background: #74512D;
+	border-radius: 20px;
+	padding: 30px;
+	gap: 25px;
+}
+.seconddiv {
+	margin: 0;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	width: 980px;
+	height: 130px;
+	background-color: #AF8F6F;
+	border-radius: 20px;
+	padding: 10px;
+	font-size: 35px;
+	color: white;
+	overflow: hidden;
+}
+.thirddiv {
+	margin: 0;
+	display: flex;
+	flex-direction: row;
+	width: 960px;
+	height: 545px;
+	background-color:  #AF8F6F;
+	border-radius: 20px;
+	padding: 20px;
+	gap: 5px;
+}
+.fourthdiv {
+	margin: 0;
+	display: flex;
+	flex-wrap: wrap;
+	width: 480px;
+	height: 545px;
+	background-color: ;
+	border-radius: 20px;
+	gap: 5px;
+	font-family: "Special Gothic", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.fifthdiv {
+	margin: 0;
+	display: flex;
+	flex-wrap: wrap;
+	width: 480px;
+	height: 545px;
+	background-color: ;
+	border-radius: 20px;
+	gap: 5px	;
+	}
+.zero {
+	width: 140px;
+	height: 140px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+.one {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.two {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.three {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.four {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.five {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.six {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.seven {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.eight {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.nine {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.zero {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.doublezero {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.square {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	outline: none;
+	border: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+
+}
+.plus {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.minus {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+
+}
+.multiply {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.devide {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.percentage {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+.clear {
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+
+[class^='emptybutton']{
+	width: 155px;
+	height: 130px;
+	background-color: #92704E;
+	border-radius: 10px;
+	color: white;
+	font-size: 40px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: "Special Gothic Expanded One", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
